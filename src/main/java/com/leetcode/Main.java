@@ -8,6 +8,7 @@ public class Main {
         System.out.println(removeElement(nums, val));
     }
 
+    //Создав переменную просто считаем все элементы котоорые не равны val
     public static int removeElement(int[] nums, int val) {
         int index = 0;
 
